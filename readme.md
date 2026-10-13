@@ -1897,6 +1897,11 @@ Resources for mastering Claude skills and understanding best practices.
   - Writes a syllabus, then teaches one lesson at a time, adapting each next lesson to your inline written feedback
   - The opposite of "dump the full answer" — guides you to derive it yourself
   - Responds in Chinese; skill at `skills/bloom-tutor`
+- [alexyc9381/mentor-skill](https://github.com/alexyc9381/mentor-skill) ![Stars](https://img.shields.io/github/stars/alexyc9381/mentor-skill?style=flat-square)
+  - Claude Code plugin that makes you learn while Claude writes the code
+  - Before each feature you answer scope, edge-case and design questions in your own words; a hook blocks Write and Edit until you do
+  - Claude then builds from your decisions, and you explain the result back; notes saved to `.mentor/RECAP.md`
+  - Free, MIT; skill at `skills/mentor`
 
 ### Comprehensive Guides
 
